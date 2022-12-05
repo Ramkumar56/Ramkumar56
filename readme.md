@@ -8,7 +8,7 @@
 </div>  
   
 
-### <div align="center">I'm Ramkumar Dhamodharan.<br/>I specialize Web-Development and Software Development.</div>  
+### <div align="center">I'm Ramkumar Dhamodharan.<br/>I specialize  Software Development.</div>  
   
 
 - 🔭 I'm working on some secret stuff.  
